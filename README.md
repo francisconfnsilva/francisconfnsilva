@@ -21,7 +21,7 @@ I am a Master's student in Biomedical Engineering at Technical University of Lis
 
 * **Open Source Contributor:** Integrated and validated clinical-grade algorithms for Heart Rate Variability (HRV) analysis into the BioSPPy Python library.
 * **Biophysics Simulation:** Modeled thermodynamic phase transitions using **Cahn-Hilliard gradient dynamics** and regular solution theory at Chalmers University of Technology.
-* **Full-Stack Engineering:** Architected a secure, **ACID-compliant** Boat Management System (Python/SQL) with defense-in-depth security protocols.
+* **Student Full-Stack Developer:** Architected a secure, **ACID-compliant** Boat Management System (Python/SQL) with defense-in-depth security protocols.
 
 ### Tech & Tools
 
