@@ -1,29 +1,29 @@
 # Hi, I'm Francisco 👋​
 
-I am a Master's student in Biomedical Engineering at Technical University of Lisbon, currently bridging the gap between Control Theory, Learning and Artificial Intelligence.
+I am a Master's student in Biomedical Engineering at the Technical University of Lisbon, bridging the gap between computational neuroscience, control theory, and artificial intelligence. My research focuses on translating sophisticated biological memory mechanisms into scalable neural network architectures to solve the context bottlenecks of modern foundation models, with a strong interest in clinical and healthcare applications.
 
-### Current Research Interests
+### 🧠 Current Research Interests
 
-* **Neuro-AI Alignment:** Investigating how biological agents solve partial observability and temporal credit assignment in complex navigation tasks.
-* * **Reinforcement Learning:** Investigating Finite State Controllers with explicit memory modules to resolve partial observability in biological agents. I also follow the emerging intersection of Policy Gradients (iGRPO) and Reinforcement Learning from Human Feedback (RLHF) for optimizing reasoning in LLMs.
-* **Efficient LLMs:** Developing **sparse attention mechanisms** and continuous-time memory architectures to extend the context window of LLMs.
-* **Biophysics:** Using statistical mechanics to model dynamic systems and learning.
+* **Biologically-Inspired Architecture:** Developing Continuous Long-Term Memory Transformers (CLMT) and event-based segmentation inspired by hippocampal replay to achieve infinite-context reasoning over continuous data streams.
+* **Decision Making under Uncertainty:** Formulating real-world and clinical decision-making as Partially Observable Markov Decision Processes (POMDPs), and extracting finite-state controllers to map how agents dynamically route imperfect information.
+* **Neuro-AI Alignment & Dynamics:** Investigating shared dynamical motifs and continuous attractor networks to understand how biological and artificial agents solve temporal credit assignment.
+* **RL & Reasoning:** Exploring the intersection of explicit memory modules, Policy Gradients (iGRPO), and RLHF for optimizing reasoning and planning in LLMs.
 
-### Current Projects
+### 🔬 Current Projects
 
-* **Champalimaud Foundation (Research Fellow)**
-    Modeling foraging behavior as a RL agents with explicit memory modules. I am benchmarking finite state controllers against real rodent tracking data to understand how biological agents optimize policies under model uncertainty.
+* **Champalimaud Foundation | Research Fellow**
+  Investigating memory dynamics in agents navigating high-uncertainty environments. I extract and benchmark deep RL and finite-state controllers against *in vivo* tracking data to understand how biological agents distill complex neural policies into interpretable graphs to route imperfect information.
 
-* **IT-Lisbon / DECOLLAGE (Visiting Researcher)**
-    Contributing to the ERC-funded DECOLLAGE project by developing continuous video representations for Transformers and sparse attention kernels for Multilingual LLMs (EuroLLM). My work aims to replace dense, unstructured attention with structured sparsity.
+* **IT-Lisbon / DECOLLAGE | Visiting Researcher**
+  Contributing to the ERC-funded DECOLLAGE project and EuroLLM. I am developing the **Continuous Long-Term Memory Transformer (CLMT)** for video representations. My work aims to replace dense, arbitrary sliding windows with fully parametric, biologically-inspired episodic memory to achieve lossless semantic compression for foundation models.
 
-### Selected Achievements
+### 🚀 Selected Achievements
 
-* **Open Source Contributor:** Integrated and validated clinical-grade algorithms for Heart Rate Variability (HRV) analysis into the BioSPPy Python library.
+* **Clinical Open Source Contributor:** Integrated and validated clinical-grade algorithms for continuous Heart Rate Variability (HRV) analysis into the **BioSPPy** Python library, directly applying signal processing to healthcare data.
 * **Biophysics Simulation:** Modeled thermodynamic phase transitions using **Cahn-Hilliard gradient dynamics** and regular solution theory at Chalmers University of Technology.
-* **Student Full-Stack Developer:** Architected a secure, **ACID-compliant** Boat Management System (Python/SQL) with defense-in-depth security protocols.
+* **Student Full-Stack Developer:** Architected a secure, **ACID-compliant** Management System (Python/SQL) with defense-in-depth security protocols, demonstrating rigorous software engineering fundamentals.
 
-### Tech & Tools
+### 💻 Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -32,6 +32,6 @@ I am a Master's student in Biomedical Engineering at Technical University of Lis
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-### Contact
+### 📫 Contact
 
 [**LinkedIn**](https://www.linkedin.com/in/YOUR_LINKEDIN_ID) | [**Email**](mailto:francisco.ns@tecnico.ulisboa.pt)
