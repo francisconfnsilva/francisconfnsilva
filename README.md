@@ -6,7 +6,7 @@ I am a Master's student in Biomedical Engineering at the Technical University of
 
 * **Biologically-Inspired Architecture:** Developing Continuous Long-Term Memory Transformers (CLMT) and event-based segmentation inspired by hippocampal replay to achieve infinite-context reasoning over continuous data streams.
 * **Decision Making under Uncertainty:** Formulating real-world and clinical decision-making as Partially Observable Markov Decision Processes (POMDPs), and extracting finite-state controllers to map how agents dynamically route imperfect information.
-* **Neuro-AI Alignment & Dynamics:** Investigating shared dynamical motifs and continuous attractor networks to understand how biological and artificial agents solve temporal credit assignment.
+* **Neuro-AI Alignment & Dynamics:** Interested in understanding how neural computation dynamics, specifically continuous attractor networks, enable biological and artificial agents to handle memory-guided navigation tasks under model uncertainty.
 * **RL & Reasoning:** Exploring the intersection of explicit memory modules, Policy Gradients (iGRPO), and RLHF for optimizing reasoning and planning in LLMs.
 
 ### 🔬 Current Projects
